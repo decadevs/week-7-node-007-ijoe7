@@ -1,0 +1,94 @@
+[
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": null,
+      "createdAt": "2021-05-08T19:05:21.666Z"
+   },
+   {
+      "shape": "square",
+      "dimension": 6,
+      "area": 36,
+      "createdAt": "2021-05-08T19:06:54.335Z"
+   },
+   {
+      "shape": "circle",
+      "dimension": 2,
+      "area": 12.566370614359172,
+      "createdAt": "2021-05-08T19:07:16.457Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": null,
+      "createdAt": "2021-05-08T19:11:36.106Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": null,
+      "createdAt": "2021-05-08T19:13:07.833Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": null,
+      "createdAt": "2021-05-08T19:15:38.911Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 4
+      },
+      "area": 30.94,
+      "createdAt": "2021-05-08T19:19:20.688Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": -315.56,
+      "createdAt": "2021-05-08T19:20:01.606Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 2
+      },
+      "area": 8.44,
+      "createdAt": "2021-05-08T19:20:18.891Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": -315.56,
+      "createdAt": "2021-05-09T18:45:47.312Z"
+   }
+]

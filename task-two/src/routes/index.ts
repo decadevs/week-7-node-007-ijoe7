@@ -1,11 +1,10 @@
 import express, { Request, Response, NextFunction } from "express";
 import fs from "fs";
 import Joi from "joi";
+import path from "path";
 
-let dataFiles = require("../../database/database.json");
+let dataFiles = require("../database/database.json");
 
-const overAll: string =
-  "/Users/decagon/Desktop/week-7-node-007-ijoe7/database/database.json";
 
 const router = express.Router();
 const app = express();
@@ -145,7 +144,7 @@ router.post("/calculate", (req: Request, res: Response, next: NextFunction) => {
   };
 
   dataFiles.push(information);
-  fs.writeFileSync(overAll, JSON.stringify(dataFiles, null, 3), "utf8");
+  fs.writeFileSync(path.join(__dirname, '../', 'database/database.json'), JSON.stringify(dataFiles, null, 3), "utf8");
   res.json(information);
 });
 
