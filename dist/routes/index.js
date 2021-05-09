@@ -6,8 +6,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const fs_1 = __importDefault(require("fs"));
 const joi_1 = __importDefault(require("joi"));
-let dataFiles = require("../../database/database.json");
-const overAll = "/Users/decagon/Desktop/week-7-node-007-ijoe7/database/database.json";
+const path_1 = __importDefault(require("path"));
+let dataFiles = require("../database/database.json");
 const router = express_1.default.Router();
 const app = express_1.default();
 ;
@@ -101,7 +101,7 @@ router.post("/calculate", (req, res, next) => {
         createdAt: new Date()
     };
     dataFiles.push(information);
-    fs_1.default.writeFileSync(overAll, JSON.stringify(dataFiles, null, 3), "utf8");
+    fs_1.default.writeFileSync(path_1.default.join(__dirname, '../', 'database/database.json'), JSON.stringify(dataFiles, null, 3), "utf8");
     res.json(information);
 });
 exports.default = router;

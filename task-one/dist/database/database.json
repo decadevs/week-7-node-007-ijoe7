@@ -1,0 +1,167 @@
+[
+   {
+      "organization": "node ninja",
+      "createdAt": "2020-08-12T19:04:55.455Z",
+      "updatedAt": "2020-08-12T19:04:55.455Z",
+      "products": [
+         "developers",
+         "pizza"
+      ],
+      "marketValue": "90%",
+      "address": "sangotedo",
+      "ceo": "cn",
+      "country": "Taiwan",
+      "id": 1,
+      "noOfEmployees": 2,
+      "employees": [
+         "james bond",
+         "jackie chan"
+      ]
+   },
+   {
+      "organization": "Dotun and Elias Limited",
+      "createdAt": "2020-08-12T19:04:55.455Z",
+      "updatedAt": "2020-08-12T19:04:55.455Z",
+      "products": [
+         "java",
+         "python"
+      ],
+      "marketValue": "100%",
+      "address": "Decagon",
+      "ceo": "both",
+      "country": "Nigeria",
+      "id": 2,
+      "noOfEmployees": 2,
+      "employees": [
+         "Dotun",
+         "Elias"
+      ]
+   },
+   {
+      "id": 3,
+      "organization": "Dotun and Elias Limited",
+      "createdAt": "2021-05-01T14:34:43.423Z",
+      "updatedAt": "2021-05-01T17:22:55.387Z",
+      "products": [
+         "java",
+         "python"
+      ],
+      "marketValue": "100%",
+      "address": "100%",
+      "ceo": "only one",
+      "country": "Nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "Dotun",
+         "Elias"
+      ]
+   },
+   {
+      "id": 4,
+      "organization": "Dotun and Elias Limited",
+      "createdAt": "2021-05-01T17:12:46.334Z",
+      "products": [
+         "java",
+         "python"
+      ],
+      "marketValue": "100%",
+      "address": "Decagon",
+      "ceo": "both",
+      "country": "Nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "Dotun",
+         "Elias"
+      ]
+   },
+   {
+      "id": 5,
+      "organization": "Dotun and Elias Limited",
+      "createdAt": "2021-05-01T17:12:57.564Z",
+      "products": [
+         "java",
+         "python"
+      ],
+      "marketValue": "100%",
+      "address": "Decagon",
+      "ceo": "both",
+      "country": "Nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "Dotun",
+         "Elias"
+      ]
+   },
+   {
+      "id": 6,
+      "organization": "Dotun and Elias Limited",
+      "createdAt": "2021-05-01T17:13:27.678Z",
+      "products": [
+         "java",
+         "python"
+      ],
+      "marketValue": "100%",
+      "address": "Decagon",
+      "ceo": "both",
+      "country": "Nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "Dotun",
+         "Elias"
+      ]
+   },
+   {
+      "id": 7,
+      "organization": "Dotun and Elias Limited",
+      "createdAt": "2021-05-01T17:15:56.240Z",
+      "products": [
+         "java",
+         "python"
+      ],
+      "marketValue": "100%",
+      "address": "Decagon",
+      "ceo": "both",
+      "country": "Nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "Dotun",
+         "Elias"
+      ]
+   },
+   {
+      "id": 8,
+      "organization": "Dotun and Elias Limited",
+      "createdAt": "2021-05-01T17:15:58.704Z",
+      "products": [
+         "java",
+         "python"
+      ],
+      "marketValue": "100%",
+      "address": "Decagon",
+      "ceo": "both",
+      "country": "Nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "Dotun",
+         "Elias"
+      ]
+   },
+   {
+      "id": 9,
+      "organization": "Dotun and Elias Limited",
+      "createdAt": "2021-05-01T17:20:06.806Z",
+      "products": [
+         "java",
+         "python"
+      ],
+      "marketValue": "100%",
+      "address": "Decagon",
+      "ceo": "both",
+      "country": "Nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "Dotun",
+         "Elias"
+      ]
+   }
+]

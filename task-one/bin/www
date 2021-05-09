@@ -4,15 +4,15 @@
  * Module dependencies.
  */
 
-var app = require('../dist/app.js').default;
-var debug = require('debug')('week-7-node-007-ijoe7:server');
+var app = require('../dist/index').default;
+var debug = require('debug')('week-6-task:server');
 var http = require('http');
 
 /**
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3000');
+var port = normalizePort(process.env.PORT || '5000');
 app.set('port', port);
 
 /**
@@ -26,7 +26,7 @@ var server = http.createServer(app);
  */
 
 server.listen(port, () => {
-  console.log(`Server ${port} is running`)
+  console.log(`The Server is running!... Listening on port ${port}`)
 });
 server.on('error', onError);
 server.on('listening', onListening);

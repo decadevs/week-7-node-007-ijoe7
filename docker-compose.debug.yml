@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  nodeproject:
+    image: nodeproject
+    build:
+      context: task-one
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: development
+    ports:
+      - 5000:5000
+      - 9229:9229
+    command: ["node", "--inspect=0.0.0.0:9229", "dist/index.js"]

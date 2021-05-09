@@ -90,5 +90,25 @@
       },
       "area": -315.56,
       "createdAt": "2021-05-09T18:45:47.312Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": -315.56,
+      "createdAt": "2021-05-09T19:05:41.163Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": -315.56,
+      "createdAt": "2021-05-09T19:10:29.871Z"
    }
 ]
