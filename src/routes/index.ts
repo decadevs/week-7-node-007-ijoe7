@@ -149,7 +149,4 @@ router.post("/calculate", (req: Request, res: Response, next: NextFunction) => {
   res.json(information);
 });
 
-
-
-
 export default router;
