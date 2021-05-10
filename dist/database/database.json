@@ -4,22 +4,10 @@
       "dimension": {
          "a": 3,
          "b": 4,
-         "c": 10
+         "c": 2
       },
-      "area": null,
-      "createdAt": "2021-05-08T19:05:21.666Z"
-   },
-   {
-      "shape": "square",
-      "dimension": 6,
-      "area": 36,
-      "createdAt": "2021-05-08T19:06:54.335Z"
-   },
-   {
-      "shape": "circle",
-      "dimension": 2,
-      "area": 12.566370614359172,
-      "createdAt": "2021-05-08T19:07:16.457Z"
+      "area": 2.9,
+      "createdAt": "2021-05-10T13:36:30.748Z"
    },
    {
       "shape": "triangle",
@@ -29,27 +17,7 @@
          "c": 10
       },
       "area": null,
-      "createdAt": "2021-05-08T19:11:36.106Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 3,
-         "b": 4,
-         "c": 10
-      },
-      "area": null,
-      "createdAt": "2021-05-08T19:13:07.833Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 3,
-         "b": 4,
-         "c": 10
-      },
-      "area": null,
-      "createdAt": "2021-05-08T19:15:38.911Z"
+      "createdAt": "2021-05-10T13:37:57.738Z"
    },
    {
       "shape": "triangle",
@@ -58,18 +26,8 @@
          "b": 4,
          "c": 4
       },
-      "area": 30.94,
-      "createdAt": "2021-05-08T19:19:20.688Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 3,
-         "b": 4,
-         "c": 10
-      },
-      "area": -315.56,
-      "createdAt": "2021-05-08T19:20:01.606Z"
+      "area": 5.56,
+      "createdAt": "2021-05-10T13:38:03.605Z"
    },
    {
       "shape": "triangle",
@@ -78,177 +36,7 @@
          "b": 4,
          "c": 2
       },
-      "area": 8.44,
-      "createdAt": "2021-05-08T19:20:18.891Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 3,
-         "b": 4,
-         "c": 10
-      },
-      "area": -315.56,
-      "createdAt": "2021-05-09T18:45:47.312Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 3,
-         "b": 4,
-         "c": 10
-      },
-      "area": -315.56,
-      "createdAt": "2021-05-09T19:05:41.163Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 3,
-         "b": 4,
-         "c": 10
-      },
-      "area": -315.56,
-      "createdAt": "2021-05-09T19:10:29.871Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 3,
-         "b": 4,
-         "c": 5
-      },
-      "area": 36,
-      "createdAt": "2021-05-10T06:04:38.281Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:31:46.931Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:31:46.940Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:36:00.055Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:36:00.064Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:39:44.681Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:39:44.691Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:40:48.761Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:40:48.769Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:41:21.493Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:42:21.791Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:43:25.944Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:44:15.426Z"
-   },
-   {
-      "shape": "triangle",
-      "dimension": {
-         "a": 5,
-         "b": 5,
-         "c": 6
-      },
-      "area": 144,
-      "createdAt": "2021-05-10T06:46:15.621Z"
+      "area": 2.9,
+      "createdAt": "2021-05-10T13:38:09.499Z"
    }
 ]

@@ -34,4 +34,4 @@ app.use(function (err, req, res, next) {
     res.status(err.status || 500);
     res.render("error");
 });
-module.exports = app;
+exports.default = app;

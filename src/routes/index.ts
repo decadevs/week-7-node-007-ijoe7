@@ -133,7 +133,7 @@ router.post("/calculate", (req: Request, res: Response, next: NextFunction) => {
       return;
     }
     const s:number = (parseFloat(req.body.dimension.a) + parseFloat(req.body.dimension.b) + parseFloat(req.body.dimension.c)) / 2;
-    req.body.area = Number((s * (s - req.body.dimension.a) * (s - req.body.dimension.b) * (s - req.body.dimension.c)).toFixed(2))
+    req.body.area = Number(Math.sqrt(s * (s - req.body.dimension.a) * (s - req.body.dimension.b) * (s - req.body.dimension.c)).toFixed(2))
   }
 
   const information: Info = {

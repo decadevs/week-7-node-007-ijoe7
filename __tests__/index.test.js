@@ -1,6 +1,6 @@
 const request = require('supertest');
 
-let app = require('../dist/app.js');
+let app = require('../dist/app.js').default;
 
 
 // afterEach(() => {
