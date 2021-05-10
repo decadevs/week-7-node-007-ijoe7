@@ -45,4 +45,4 @@ app.use(function (
   res.render("error");
 });
 
-export default app;
+module.exports = app;
