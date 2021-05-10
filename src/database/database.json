@@ -1,0 +1,42 @@
+[
+   {
+     "shape": "triangle",
+     "dimension": {
+       "a": 3,
+       "b": 4,
+       "c": 2
+     },
+     "area": 2.9,
+     "createdAt": "2021-05-10T13:36:30.748Z"
+   },
+   {
+     "shape": "triangle",
+     "dimension": {
+       "a": 3,
+       "b": 4,
+       "c": 10
+     },
+     "area": null,
+     "createdAt": "2021-05-10T13:37:57.738Z"
+   },
+   {
+     "shape": "triangle",
+     "dimension": {
+       "a": 3,
+       "b": 4,
+       "c": 4
+     },
+     "area": 5.56,
+     "createdAt": "2021-05-10T13:38:03.605Z"
+   },
+   {
+     "shape": "triangle",
+     "dimension": {
+       "a": 3,
+       "b": 4,
+       "c": 2
+     },
+     "area": 2.9,
+     "createdAt": "2021-05-10T13:38:09.499Z"
+   }
+]

@@ -1,0 +1,92 @@
+[
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 2
+      },
+      "area": 2.9,
+      "createdAt": "2021-05-10T13:36:30.748Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 10
+      },
+      "area": null,
+      "createdAt": "2021-05-10T13:37:57.738Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 4
+      },
+      "area": 5.56,
+      "createdAt": "2021-05-10T13:38:03.605Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 2
+      },
+      "area": 2.9,
+      "createdAt": "2021-05-10T13:38:09.499Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T18:32:55.884Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:20:35.548Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:29:10.585Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:29:36.561Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:32:45.755Z"
+   }
+]
