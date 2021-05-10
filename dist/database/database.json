@@ -38,5 +38,15 @@
       },
       "area": 2.9,
       "createdAt": "2021-05-10T13:38:09.499Z"
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T18:32:55.884Z"
    }
 ]
