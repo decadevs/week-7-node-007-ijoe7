@@ -87,7 +87,7 @@ function validateTriangle(tri: Triangle) {
 
 /* GET home page. */
 router.get("/fetchData", function (req: Request, res: Response, next: NextFunction) {
-  res.status(201).json(dataFiles)
+  res.status(200).json(dataFiles)
 });
 
 
@@ -145,7 +145,7 @@ router.post("/calculate", (req: Request, res: Response, next: NextFunction) => {
 
   dataFiles.push(information);
   fs.writeFileSync(path.join(__dirname, '../', 'database/database.json'), JSON.stringify(dataFiles, null, 3), "utf8");
-  res.json(information);
+  res.status(201).json(information);
 });
 
 export default router;

@@ -54,7 +54,7 @@ function validateTriangle(tri) {
 ;
 /* GET home page. */
 router.get("/fetchData", function (req, res, next) {
-    res.status(201).json(dataFiles);
+    res.status(200).json(dataFiles);
 });
 router.post("/calculate", (req, res, next) => {
     const data = array.find((item) => item === req.body.shape.toLowerCase());
@@ -102,6 +102,6 @@ router.post("/calculate", (req, res, next) => {
     };
     dataFiles.push(information);
     fs_1.default.writeFileSync(path_1.default.join(__dirname, '../', 'database/database.json'), JSON.stringify(dataFiles, null, 3), "utf8");
-    res.json(information);
+    res.status(201).json(information);
 });
 exports.default = router;

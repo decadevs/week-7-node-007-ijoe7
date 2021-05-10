@@ -14,7 +14,7 @@ describe('GET /fetchData', () => {
             .get("/fetchData")
             .set("Accept", "application/json")
             .expect("Content-Type", /json/)
-            .expect(201, done);
+            .expect(200, done);
     });
 });
 
@@ -43,7 +43,7 @@ describe("POST /calculate", () => {
             .send(data)
             .set("Accept", "application/json")
             .expect("Content-Type", /json/)
-            .expect(200, done)
+            .expect(201, done)
     })
     
     test('respond with 400 bad response', function (done) {
